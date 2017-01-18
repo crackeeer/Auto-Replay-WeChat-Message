@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidOutput\AutoWeChatz1.2.1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_91f5c31930175b7860fe0f87febc4f6b571bd292.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lazarus\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.3\91ac0b4c3a38b721c7548baa239950f23b65b56e\gson-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="91ac0b4c3a38b721c7548baa239950f23b65b56e">
+        <dex dex="D:\AndroidOutput\AutoWeChatz1.2.1\app\build\intermediates\pre-dexed\debug\gson-2.2.3_9fb2fa9b8633fb809c7a51c95a083d58195dd8ff.jar" />
+    </item>
+
+</items>
